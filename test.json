@@ -1,0 +1,257 @@
+{
+  'entities': {
+    'hashtags': [],
+    'urls': [
+      {
+        'display_url': 'twitter.com/i/web/status/1…',
+        'expanded_url': 'https://twitter.com/i/web/status/1214926747952668673',
+        'url': 'https://t.co/tgh5pFJLNR',
+        'indices': [
+          117,
+          140
+        ]
+      }
+    ],
+    'symbols': [],
+    'user_mentions': []
+  },
+  'source': '<a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>',
+  'created_at': 'Wed Jan 08 15:08:03 +0000 2020',
+  'display_text_range': [
+    0,
+    140
+  ],
+  'possibly_sensitive': False,
+  'text': "Kindly send a Dm if you're interested or if you have anyone that might be interested.\n\nLocation should be within La… https://t.co/tgh5pFJLNR",
+  'reply_count': 0,
+  'quote_count': 0,
+  'in_reply_to_status_id_str': None,
+  'retweet_count': 0,
+  'lang': 'en',
+  'timestamp_ms': '1578496083616',
+  'id_str': '1214926747952668673',
+  'is_quote_status': False,
+  'in_reply_to_user_id': None,
+  'extended_tweet': {
+    'extended_entities': {
+      'media': [
+        {
+          'display_url': 'pic.twitter.com/Yylx2rZaBx',
+          'media_url': 'http://pbs.twimg.com/media/ENxJbesXUAAHA3a.jpg',
+          'expanded_url': 'https://twitter.com/ShollyExx/status/1214926747952668673/photo/1',
+          'url': 'https://t.co/Yylx2rZaBx',
+          'sizes': {
+            'medium': {
+              'w': 540,
+              'h': 1200,
+              'resize': 'fit'
+            },
+            'large': {
+              'w': 720,
+              'h': 1600,
+              'resize': 'fit'
+            },
+            'thumb': {
+              'w': 150,
+              'h': 150,
+              'resize': 'crop'
+            },
+            'small': {
+              'w': 306,
+              'h': 680,
+              'resize': 'fit'
+            }
+          },
+          'media_url_https': 'https://pbs.twimg.com/media/ENxJbesXUAAHA3a.jpg',
+          'id_str': '1214926735927627776',
+          'id': 1214926735927627776,
+          'type': 'photo',
+          'indices': [
+            245,
+            268
+          ]
+        }
+      ]
+    },
+    'entities': {
+      'hashtags': [
+        {
+          'indices': [
+            130,
+            136
+          ],
+          'text': 'Trump'
+        },
+        {
+          'indices': [
+            137,
+            150
+          ],
+          'text': 'BreakingNews'
+        },
+        {
+          'indices': [
+            152,
+            161
+          ],
+          'text': 'Breaking'
+        },
+        {
+          'indices': [
+            162,
+            169
+          ],
+          'text': 'speedy'
+        },
+        {
+          'indices': [
+            170,
+            180
+          ],
+          'text': 'IranvsUSA'
+        },
+        {
+          'indices': [
+            181,
+            192
+          ],
+          'text': 'Tundeednut'
+        },
+        {
+          'indices': [
+            193,
+            200
+          ],
+          'text': 'jaruma'
+        },
+        {
+          'indices': [
+            201,
+            205
+          ],
+          'text': 'Job'
+        },
+        {
+          'indices': [
+            206,
+            226
+          ],
+          'text': 'JobSeekersWednesday'
+        },
+        {
+          'indices': [
+            227,
+            235
+          ],
+          'text': 'vacancy'
+        },
+        {
+          'indices': [
+            236,
+            244
+          ],
+          'text': 'drivers'
+        }
+      ],
+      'urls': [],
+      'media': [
+        {
+          'display_url': 'pic.twitter.com/Yylx2rZaBx',
+          'media_url': 'http://pbs.twimg.com/media/ENxJbesXUAAHA3a.jpg',
+          'expanded_url': 'https://twitter.com/ShollyExx/status/1214926747952668673/photo/1',
+          'url': 'https://t.co/Yylx2rZaBx',
+          'sizes': {
+            'medium': {
+              'w': 540,
+              'h': 1200,
+              'resize': 'fit'
+            },
+            'large': {
+              'w': 720,
+              'h': 1600,
+              'resize': 'fit'
+            },
+            'thumb': {
+              'w': 150,
+              'h': 150,
+              'resize': 'crop'
+            },
+            'small': {
+              'w': 306,
+              'h': 680,
+              'resize': 'fit'
+            }
+          },
+          'media_url_https': 'https://pbs.twimg.com/media/ENxJbesXUAAHA3a.jpg',
+          'id_str': '1214926735927627776',
+          'id': 1214926735927627776,
+          'type': 'photo',
+          'indices': [
+            245,
+            268
+          ]
+        }
+      ],
+      'symbols': [],
+      'user_mentions': []
+    },
+    'full_text': "Kindly send a Dm if you're interested or if you have anyone that might be interested.\n\nLocation should be within Lagos. \nThanks \n\n#Trump #BreakingNews  #Breaking #speedy #IranvsUSA #Tundeednut #jaruma #Job #JobSeekersWednesday #vacancy #drivers https://t.co/Yylx2rZaBx",
+    'display_text_range': [
+      0,
+      244
+    ]
+  },
+  'geo': None,
+  'retweeted': False,
+  'user': {
+    'profile_image_url_https': 'https://pbs.twimg.com/profile_images/1204321169270353920/93eLw2F__normal.jpg',
+    'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png',
+    'geo_enabled': False,
+    'created_at': 'Wed Jul 22 10:22:24 +0000 2015',
+    'is_translator': False,
+    'profile_background_color': '000000',
+    'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png',
+    'translator_type': 'none',
+    'profile_background_tile': False,
+    'verified': False,
+    'following': None,
+    'url': None,
+    'friends_count': 536,
+    'profile_use_background_image': False,
+    'contributors_enabled': False,
+    'time_zone': None,
+    'id_str': '3387086687',
+    'favourites_count': 435,
+    'default_profile': False,
+    'followers_count': 256,
+    'description': "I am Shola Shoroyewun.\nA Girl Child Advocate from Ajegunle, Lagos. \nI'm a change maker, making my world 🗺 a better place than I met it. \nI Rep LoveWorld Nation",
+    'listed_count': 0,
+    'profile_image_url': 'http://pbs.twimg.com/profile_images/1204321169270353920/93eLw2F__normal.jpg',
+    'profile_sidebar_fill_color': '000000',
+    'id': 3387086687,
+    'utc_offset': None,
+    'notifications': None,
+    'default_profile_image': False,
+    'follow_request_sent': None,
+    'location': 'Lagos, Nigeria',
+    'statuses_count': 58,
+    'protected': False,
+    'name': 'shola shoroyewun',
+    'screen_name': 'ShollyExx',
+    'profile_link_color': 'F5ABB5',
+    'profile_text_color': '000000',
+    'profile_sidebar_border_color': '000000',
+    'lang': None
+  },
+  'id': 1214926747952668673,
+  'in_reply_to_user_id_str': None,
+  'place': None,
+  'favorite_count': 0,
+  'in_reply_to_status_id': None,
+  'truncated': True,
+  'favorited': False,
+  'filter_level': 'low',
+  'coordinates': None,
+  'in_reply_to_screen_name': None,
+  'contributors': None
+}
